@@ -22,7 +22,7 @@ A landing page of the tracking system for a cargo company
 ## Installation & Execution
 
 1. Run `index.html` on Live Server or open it in your favorite browser
-<!-- 2. Or open the [deployed version]() -->
+2. Or open the [deployed version](https://cargo-ui-mirzaianov.vercel.app/)
 
 ## License
 
